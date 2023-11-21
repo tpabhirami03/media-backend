@@ -1,0 +1,128 @@
+{
+  "videos": [
+    {
+      "id": "10",
+      "caption": "neela nilave",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ5f-pWFqkQx4uUfl590kakYLPVohfj1iV2aAIFA5y4WQcbVJ2_UGw3XjNZHbbB6VYMmfI&usqp=CAU",
+      "url": "https://www.youtube.com/embed/7DaFmLEMt9c"
+    },
+    {
+      "id": "3",
+      "caption": "Dilber",
+      "thumbnail": "https://images.hindustantimes.com/rf/image_size_960x540/HT/p2/2018/07/04/Pictures/satyamev-fatehi-jayate-song-still-from-dilbar_0f95eae8-7f5a-11e8-8bd0-affd130bd192.JPG",
+      "url": "https://www.youtube.com/embed/JFcgOboQZ08"
+    },
+    {
+      "id": "4",
+      "caption": "Kadavul Thantha",
+      "thumbnail": "https://img.wynk.in/unsafe/320x180/top/http://s3.ap-south-1.amazonaws.com/wynk-music-cms/srch_pplmumbai/2022-11/16/20-02/Yugi.jpg",
+      "url": "https://www.youtube.com/embed/GwuFeyEioPo"
+    },
+    {
+      "id": "5",
+      "caption": "Kadavul Thantha",
+      "thumbnail": "https://wallpapercave.com/wp/wp5409630.jpg",
+      "url": "https://www.youtube.com/embed/kRsYLmiowmQ"
+    },
+    {
+      "id": "6",
+      "caption": "India Sports",
+      "thumbnail": "https://i2.wp.com/m.economictimes.com/thumb/msid-101403961,width-1200,height-675,resizemode-4,imgsize-66532/india-cricket-jersey.jpg?strip=all",
+      "url": "https://www.youtube.com/embed/XXh7fM9vhNM"
+    }
+  ],
+  "categories": [
+    {
+      "id": "1",
+      "name": "entertainment",
+      "allVideos": [
+        {
+          "id": "10",
+          "caption": "neela nilave",
+          "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ5f-pWFqkQx4uUfl590kakYLPVohfj1iV2aAIFA5y4WQcbVJ2_UGw3XjNZHbbB6VYMmfI&usqp=CAU",
+          "url": "https://www.youtube.com/embed/7DaFmLEMt9c"
+        }
+      ]
+    },
+    {
+      "id": "2",
+      "name": "sports",
+      "allVideos": [
+        {
+          "id": "10",
+          "caption": "neela nilave",
+          "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ5f-pWFqkQx4uUfl590kakYLPVohfj1iV2aAIFA5y4WQcbVJ2_UGw3XjNZHbbB6VYMmfI&usqp=CAU",
+          "url": "https://www.youtube.com/embed/7DaFmLEMt9c"
+        },
+        {
+          "id": "6",
+          "caption": "India Sports",
+          "thumbnail": "https://i2.wp.com/m.economictimes.com/thumb/msid-101403961,width-1200,height-675,resizemode-4,imgsize-66532/india-cricket-jersey.jpg?strip=all",
+          "url": "https://www.youtube.com/embed/XXh7fM9vhNM"
+        }
+      ]
+    },
+    {
+      "id": "3",
+      "name": "Song",
+      "allVideos": [
+        {
+          "id": "4",
+          "caption": "Kadavul Thantha",
+          "thumbnail": "https://img.wynk.in/unsafe/320x180/top/http://s3.ap-south-1.amazonaws.com/wynk-music-cms/srch_pplmumbai/2022-11/16/20-02/Yugi.jpg",
+          "url": "https://www.youtube.com/embed/GwuFeyEioPo"
+        }
+      ]
+    }
+  ],
+  "watch_history": [
+    {
+      "id": 1,
+      "cardName": "neela nilave",
+      "url": "https://www.youtube.com/embed/7DaFmLEMt9c",
+      "date": "10-11-2023"
+    },
+    {
+      "id": "e1f8a0e1-0cd1-437b-baa3-24676809923e",
+      "cardName": "neela nilave",
+      "url": "https://www.youtube.com/embed/7DaFmLEMt9c",
+      "date": "2023-11-14T11:00:35.250Z"
+    },
+    {
+      "id": "b819e673-0228-4fa3-8ac2-bfd6700b1575",
+      "cardName": "neela nilave",
+      "url": "https://www.youtube.com/embed/7DaFmLEMt9c",
+      "date": "2023-11-14T11:03:00.306Z"
+    },
+    {
+      "id": "ec7066e6-eff3-45b4-b437-14d93c619d6d",
+      "cardName": "neela nilave",
+      "url": "https://www.youtube.com/embed/7DaFmLEMt9c",
+      "date": "2023-11-15T10:21:25.535Z"
+    },
+    {
+      "id": "c2a5cc35-b453-40a4-91f5-1a4a5b18a052",
+      "cardName": "neela nilave",
+      "url": "https://www.youtube.com/embed/7DaFmLEMt9c",
+      "date": "2023-11-15T10:21:43.360Z"
+    },
+    {
+      "id": "f7cb358e-740b-4aa1-a3c8-50fceadd3350",
+      "cardName": "neela nilave",
+      "url": "https://www.youtube.com/embed/7DaFmLEMt9c",
+      "date": "2023-11-15T10:22:04.556Z"
+    },
+    {
+      "id": "55ca57fa-b422-439f-803d-79d6451fc9b2",
+      "cardName": "neela nilave",
+      "url": "https://www.youtube.com/embed/7DaFmLEMt9c",
+      "date": "2023-11-15T10:40:28.928Z"
+    },
+    {
+      "id": "ac3cbd59-d0a9-40ad-a0d7-2657eeeec01c",
+      "cardName": "neela nilave",
+      "url": "https://www.youtube.com/embed/7DaFmLEMt9c",
+      "date": "2023-11-21T10:24:52.969Z"
+    }
+  ]
+}
